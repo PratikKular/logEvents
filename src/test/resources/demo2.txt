@@ -1,6 +1,6 @@
 {"id":"1", "state":"STARTED","type":"APPLICATION_LOG","host":"12345" ,"timestamp":1312121212212}
 {"id":"2", "state":"FINISHED","timestamp":1312121212212}
-{"id":"3", "state":"FINISHED","timestamp":1312121212212}
+{"id":"3", "state":"STARTED","timestamp":1312121212212}
 {"id":"1", "state":"FINISHED","timestamp":1312121212216}
 {"id":"5", "state":"STARTED","timestamp":1312121212218}
 {"id":"6", "state":"STARTED","type":"APPLICATION_LOG","host":"12345", "timestamp":1312121212212}
